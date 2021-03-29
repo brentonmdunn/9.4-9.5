@@ -5,3 +5,7 @@ Aman Kumar / 218059
 Due: March 03, 2021
 
 Collaboration video: https://drive.google.com/file/d/1RvzSLxZWrg9L2RcP3S5w6hxF1NXN6OL7/view?usp=sharing
+
+repl.it: 
+- 9.4.1: https://replit.com/@brentonmdunn/941#OnlineCustomer.java
+- 9.5.4: https://replit.com/@brentonmdunn/954#DiscountedItem.java
